@@ -1,2 +1,3 @@
 # Blog
-Page blog example
+Page blog example  
+[View deploy](https://arkhipovanatoly.github.io/Blog/)
